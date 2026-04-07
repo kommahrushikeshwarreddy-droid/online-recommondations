@@ -1,0 +1,1 @@
+“Online recommendation is an intelligent system that analyzes user data (such as clicks, ratings, and preferences) to suggest relevant items in real time, improving personalization and helping users quickly find content, products, or services they are likely to enjoy.”
